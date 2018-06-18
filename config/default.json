@@ -1,11 +1,8 @@
 {
-    
-        "apikey" : "api-key of your stack",
-        "accesstoken" : "access-token of your stack",
-        "environment" : "environment name",
-        "port": "port number"
-       
-    
+        "apikey" : "<<api-key>>",
+        "accesstoken" : "<<access-token>>",
+        "environment" : "<<environment-name>>",
+        "port": "<<port-number>>"    
 } 
 
 
