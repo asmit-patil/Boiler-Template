@@ -20,8 +20,8 @@ Step 2: Make changes in the config/default.json file by adding contentstack
         -access-token   
         -environment    
 
-Step 3: Update route (eg: home route)
-        -add ContentTypeUID (eg: ContentTypeUID = "home")
+Step 3: Update route (eg: home route)    
+        -add ContentTypeUID (eg: ContentTypeUID = "home")    
 
 Step 4: Update view (eg: for getting title, use <title>{{ entry.title }}</title>)
 
