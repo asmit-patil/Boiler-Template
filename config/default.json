@@ -1,9 +1,9 @@
 {
     
-        "apikey" : "bltd1343376dfba54d2",
-        "accesstoken" : "bltfe57b09b1e4c5732",
-        "enviournment" : "staging",
-        "port": 3000
+        "apikey" : "api-key of your stack",
+        "accesstoken" : "access-token of your stack",
+        "environment" : "environment name",
+        "port": "port number"
        
     
 } 
