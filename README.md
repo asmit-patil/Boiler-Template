@@ -10,6 +10,11 @@ This is Boiler Template for creating web-page using contentstack
 
 To download nodejs use this ----> https://nodejs.org/en/download/
 
+#contentstack
+
+You should know how to create stack and content types using contentstack.
+To know more about contentstack, Refer this link ----> https://www.contentstack.com/docs/
+
 # Getting started
 
 Step 1: Clone the git repository
